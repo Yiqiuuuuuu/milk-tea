@@ -1,14 +1,3 @@
-mysql> show databases;
-+--------------------+
-| Database           |
-+--------------------+
-| information_schema |
-| milkteadata        |
-| mysql              |
-| performance_schema |
-| sys                |
-+--------------------+
-
 
 mysql> show tables;
 +-----------------------+
