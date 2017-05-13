@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
 </head>
-
-
 
 <body>
 
@@ -24,17 +20,19 @@
     
     <input type="submit" value="Submit">
     <input type="reset" value="Reset">
-    <button>Register</button>
-    
         
     <?php
     if(!empty($_GET['error'])){
     	$error=$_GET['error'];
     	if($error==1){
     		echo "<p>Invalid email address! Your first time visit us? Join us! Click Register!</p>";
+    	}elseif($error==2){
+    		echo "<p>Oops..Wrong password!Memory loss?";
     	}
     }
     ?>
+    
+     <a href="register.php"><input type="button" value="Register"></a>
     
 </fieldset>
 </form>
