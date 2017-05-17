@@ -12,9 +12,7 @@
 
 * `MySQL`:  https://dev.mysql.com/downloads/mysql/  MySQL Community Server 5.7.18
 
-There is a video on youtube demonstrating how to install them:https://www.youtube.com/watch?v=kuMTZowwjus
-http://github.com - automatic!
-[GitHub](http://github.com)
+There is a video on youtube demonstrating how to install them: [https://www.youtube.com/watch?v=kuMTZowwjus](https://www.youtube.com/watch?v=kuMTZowwjus)
 
 
 ## Architecture of this project:
