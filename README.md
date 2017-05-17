@@ -15,7 +15,7 @@ There is a video on youtube demonstrating how to install them: https://www.youtu
 
 
 ## Architecture of this project:
-![Image of Achitecture](images/profile.png)
+![Image of Achitecture](pics/architecture.png)
 
 
 
